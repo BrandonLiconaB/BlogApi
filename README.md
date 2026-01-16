@@ -1,3 +1,5 @@
 Para que el proyecto funcione sin problemas...
 
-Se usó una API en el puerto 4000, por lo tanto tendras que correr el API primero, que es "index.js" y luego correr "server.js" que será el que traerá la información de la API y donde se almacenaran los posts nuevos que crees.
+Recuerda hacer la instalación de Node.
+
+Se usó una API en el puerto 4000, por lo tanto tendras que correr el API primero, que es "index.js" y luego correr "server.js" que será el que traerá la información de la API.
